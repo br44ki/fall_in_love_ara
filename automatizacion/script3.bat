@@ -1,0 +1,1 @@
+"C:\Users\braak\.conda\envs\envetl\python.exe" D:\ara_love\fall_in_love_ara\script3.py
